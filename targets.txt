@@ -1,3 +1,3 @@
-POST http://logger.default/predict
+POST http://logger.intel/predict
 Content-Type: application/json
 @data.json
